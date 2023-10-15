@@ -3,8 +3,8 @@ html{
 }
 
 body{
-    background-color: coral;
-    color: #cccccc;
+    background-color: green;
+    color: #ffffff;
 }
 
 .container{
@@ -84,7 +84,7 @@ body{
     border-radius: 8px;
 }
 
-#to-do .status{
+#todo .status{
     background-color: #23d26f;
 }
 #inprogress .status{
